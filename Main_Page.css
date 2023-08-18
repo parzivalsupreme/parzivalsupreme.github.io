@@ -1,0 +1,184 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  width: 100%;
+  height: 100vh;
+  background-image: url('download.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.taskbar {
+  list-style-type: none;
+  margin:  auto;
+  padding-top: 55px;
+  padding-left: 17%;
+  display: block;
+  position: fixed;
+}
+
+.taskbar ul li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 20px;
+  position: relative;
+}
+
+.taskbar ul li a{
+  text-decoration: none;
+  color: aliceblue;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.taskbar ul li::after{
+  content: "";
+  height: 3px;
+  width: 0%;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  transition: 0.3s;
+}
+
+.taskbar ul li:hover::after{
+  width: 100%;
+}
+
+.logo img{
+  width: 125px;
+  float: left;
+  padding-top: 5px;
+  padding-left: 200px;
+  position:fixed
+}
+
+.AboutMe {
+  width: 100%;
+  height: 100vh;
+  background-image: url('AboutMe.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.girlwithapearlearring{
+  width: 100%;
+  height: 100vh;
+  background-image: url('girl with a pearl earring.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.wandererabovetheseaoffog{
+  width: 100%;
+  height: 100vh;
+  background-image: url('Wanderer above the Sea of Fog.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.theschoolofathens{
+  width: 100%;
+  height: 100vh;
+  background-image: url('The School of Athens.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.nighthawks{
+  width: 100%;
+  height: 100vh;
+  background-image: url('Nighthawks.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.AboutMeheader{
+  color: #FFFFFF;
+  position: absolute;
+  top: 125%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+}
+
+.aboutmetext{
+  color: #FFFFFF;
+  position: absolute;
+  top: 140%;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+  position: relative;
+  left:0;
+  top:0;
+  width: auto;
+  padding: 50px;
+  background-color:black;
+  text-align: center;
+}
+
+.socials ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.socials ul li a{
+  text-decoration: none;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.Copyrightlicense{
+  color: #FFFFFF;
+  position: absolute;
+  top: 75%;
+  width: 95%;
+  font-size: 12px;
+  font-family: sans-serif;
+  color: gray;
+}
+
+#arrow-down {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 50px;
+  color: white;
+  animation: bounce 1s ease-in-out infinite;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+a{
+  color: white;
+}
+
+
+
+
+
