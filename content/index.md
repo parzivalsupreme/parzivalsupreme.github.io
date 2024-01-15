@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Intergalactic Dictator
 ---
 
 This is a blank Quartz installation.
