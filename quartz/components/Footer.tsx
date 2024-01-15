@@ -20,9 +20,6 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-        </p>
       </footer>
     )
   }
