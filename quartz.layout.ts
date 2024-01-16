@@ -7,20 +7,17 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/parzivalsupreme",
       "𝕏": "https://twitter.com/ElijahCezar",
+      GitHub: "https://github.com/parzivalsupreme",
+      Goodreads: "https://www.goodreads.com/review/list/137596750?shelf=%23ALL%23",
+      Letterboxd: "https://embed.letterboxd.com/elijahcaesar/",
     },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.TagList()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
