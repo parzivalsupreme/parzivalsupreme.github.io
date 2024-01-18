@@ -1,0 +1,3 @@
+---
+title: Intergalactic Dictator
+---
