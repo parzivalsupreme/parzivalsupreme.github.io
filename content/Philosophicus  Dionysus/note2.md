@@ -1,4 +1,4 @@
 ---
 title: Intergalactic Dictator
 ---
-[[note1]]
+[[The World of Wills]]
