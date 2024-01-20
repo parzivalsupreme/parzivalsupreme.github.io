@@ -1,1 +1,1 @@
-![[Pasted image 20240120232612.jpg]]![[Pasted image 20240120232631.jpg]]Expand thy horizon mean
+![[Pasted image 20240120232612.jpg]]![[Pasted image 20240120232631.jpg]]Expand thy horizon 
