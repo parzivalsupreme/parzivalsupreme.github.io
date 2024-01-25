@@ -1,0 +1,3 @@
+> The lofty independent spirituality, the will to stand alone, and even the cogent reason, are felt to be dangers, everything that elevates the individual above the herd, and is a source of fear to the neighbour, is henceforth called EVIL, the tolerant, unassuming, self-adapting, self-equalizing disposition, the MEDIOCRITY of desires, attains to moral distinction and honour.
+
+![[Pasted image 20240125123053.png]]
