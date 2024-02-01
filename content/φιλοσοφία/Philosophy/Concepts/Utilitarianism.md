@@ -1,0 +1,1 @@
+Utilitarianism is ==a moral theory that judges right and wrong based on outcomes==. It's a form of consequentialism, which means it believes that the consequences of actions determine whether they are good or bad. Utilitarianism holds that the most ethical choice is the one that produces the greatest good for the greatest number.

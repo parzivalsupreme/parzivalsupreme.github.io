@@ -1,0 +1,1 @@
+Kantianism is a deontological normative theory that focuses on fairness and the value of the individual. It rejects the utilitarian idea that the rightness of an action is based on its outcome. Instead, Kantianism says that the motive of an action determines its moral value, not its consequence.
