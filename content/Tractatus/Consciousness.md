@@ -1,1 +1,1 @@
-solve philosophy
+solve philosophy extension
