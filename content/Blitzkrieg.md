@@ -1,0 +1,1 @@
+Unpredictability, surprise, speed, overwhelming psychological shock![[Pasted image 20240213161158.jpg]]
