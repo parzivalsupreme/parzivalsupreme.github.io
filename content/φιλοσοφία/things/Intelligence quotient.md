@@ -4,6 +4,6 @@ IQ was originally computed by taking the ratio of [mental age](https://www.brit
 
 ![[Pasted image 20240214114332.png]]
 ### IQ and GDP
-
+![[Pasted image 20240214151515.png]]
 
 ### Ethnic difference in IQ 

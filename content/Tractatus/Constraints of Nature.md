@@ -1,5 +1,7 @@
-The tyranny of nature
+### The tyranny of nature
 
-Transhumanism
+### Transhumanism
 
-solve philosophy extension Extension of Consciousness
+### solve philosophy extension Extension of Consciousness
+
+### Technological Accelerationism
