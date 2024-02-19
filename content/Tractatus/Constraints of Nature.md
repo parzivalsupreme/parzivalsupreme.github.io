@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ### The tyranny of nature
 1. For millennia, the natural world has subjected humanity to tragedy and sickness. It's nature's unrelenting tyrannical animosity and indifference to the human condition that led to an insurrection. Man has rebelled—his will to preservation, his will to power, manifested in his desire to exercise dominion over nature.
