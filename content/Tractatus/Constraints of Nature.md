@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 ### The tyranny of nature
 1. For millennia, the natural world has subjected humanity to tragedy and sickness. It's nature's unrelenting tyrannical animosity and indifference to the human condition that led to an insurrection. Man has rebelled—his will to preservation, his will to power, manifested in his desire to exercise dominion over nature.
@@ -8,7 +8,7 @@ draft: false
    <br>
 3. Death is among the most dominant natural forces that man is subjected to. People despise death; it symbolizes sickness, deterioration, and nullness—the irreversible cessation of one's circulatory and respiratory functions. It terrifies them. It is the most audacious state that man has yet to conquer, and he suffers as a consequence.
 <br>
-4. The seemingly inevitability of death and the fear that came from the thought of it have given birth to various philosophies and religious doctrines that revolve around the themes of death. Philosophers preach the total absolute concession of it and self-denialism; they even go so far metaphysical, such as those of the religious who invented the notions of heaven and hell and THE grant of ETERNAL LIFE, all of which are psychological escapism for the frightening march of one's mortality.
+4. The seemingly inevitability of death and the fear that came from the thought of it have given birth to various philosophies and religious doctrines that revolve around the themes of death. Philosophers preach the total absolute concession of it and self-denialism; they even go so far as metaphysical, such as those of the religious who invented the notions of heaven and hell and THE grant of ETERNAL LIFE, all of which serve as psychological escapism against the frightening march of one's mortality.
 ### Transhumanism
 
 ### Technological Accelerationism
