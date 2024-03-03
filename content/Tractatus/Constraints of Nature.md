@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ### The tyranny of nature
 1. For millennia, the natural world has subjected humanity to tragedy and sickness. It's nature's unrelenting tyrannical animosity and indifference to the human condition that led to an insurrection. Man has rebelled—his will to preservation, his will to power, manifested in his desire to exercise dominion over nature.
@@ -13,10 +13,12 @@ draft: true
 ### Transhumanism
 1. Humans have always dared to take on the limitations and challenges imposed by the natural world. The gods rained diseases, so he invented medicine; gravity dragged him downward and deprived him of flying, so he created airplanes and spacecraft; he lacked mobility, so he created automobiles and trains. In that sense, humans have always willed to overcome their inherent frailties in and out of themselves, and this brings forth the birth of transhumanism.
 <br>
-2. Transhumanism is simply put: the augmentation of the body and self through technology, which aims to enhance, if not transcend, every aspect of the human condition, from diseases, cognition, and physical limitations to human mortality and every other biological constraint. It's the succeeding evolutionary will of man, a more refined and transcendent being.
+2. The augmentation of the body and self through technology, which aims to enhance, if not transcend, every aspect of the human condition, from diseases, cognition, and physical limitations to human mortality and every other biological constraint. It's the succeeding evolutionary will of man, a more refined and transcendent being.
 <br>
-3. The fragility of the flesh
+3. The fragility of the human flesh, we find the canvas of our evolution. We dream beyond the limits of bone and skin, yearning for the transcendence of our mortal coil. In the symphony of circuits and neurons, we seek the melody of our higher destiny. Each heartbeat echoes a desire for augmentation, a longing to surpass the confines of mortality. We are the architects of our own metamorphosis, forging pathways to a future where flesh and machine intertwine in harmonious transcendence. 
 
-### solve philosophy extension Extension of Consciousness
+### Extension of Consciousness
 
+1. The meek shall inherit the world, for the bold will inherit the stars.
 
+solve philosophy extension
