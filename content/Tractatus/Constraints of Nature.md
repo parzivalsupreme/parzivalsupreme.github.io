@@ -19,18 +19,17 @@ draft: false
 
 ### Extension of Consciousness
 
-1. The meek shall inherit the world, for the bold will inherit the stars.
-<br>
-2. The gods gave us a great curse, that is, rationality. The old geezers of the ancient world woke up and decided to make sense of everything there is to wonder. Enter philosophy—the rudimentary examination of fundamental questions of being, meaning, and morality. But it gave man so many answers that he seizes to know the truth; it made him distrust reality. Philosophy perpetually asks questions that cannot be absolutely  answered.
+> The meek shall inherit the world, for the bold will inherit the stars.
+
+1. The gods gave us a great curse, that is, rationality. The old geezers of the ancient world woke up and decided to make sense of everything there is to wonder. Enter philosophy—the rudimentary examination of fundamental questions of being, meaning, and morality. But it gave man so many answers that he seizes to know the truth; it made him distrust reality. Philosophy perpetually asks questions that cannot be absolutely  answered.
    <br>
-3. Reason is prone to human prejudice; every answer to the metaphysical nature of an inquiry is tainted with prejudice. That said, reason can't be independent of a man's physiology, hindering our quest for higher consciousness.
+2. Reason is prone to human prejudice; every answer to the metaphysical nature of an inquiry is tainted with prejudice. That said, reason can't be independent of a man's physiology, hindering our quest for higher consciousness.
 <br>
-4. Man yearns for absolutes; the human psyche is in dissonance with the relativistic truth—a primordial instinct to structure the world within a framework of fixedness and certainty. So he conceives of empericism—the mother of sciences, the mother of absolutes.
+3. Man yearns for absolutes; the human psyche is in dissonance with the relativistic truth—a primordial instinct to structure the world within a framework of fixedness and certainty. So he conceives of empiricism—the mother of sciences, the mother of absolutes.
 <br>
-5. ge
+4. I think man is incapable of comprehending the absolute; perhaps the universe is just beyond the dimensions of true and false, good and evil.
 <br>
-6. 
+5. 
+
 
 solve philosophy extension
-
-go towards it for we cannot comprehend
