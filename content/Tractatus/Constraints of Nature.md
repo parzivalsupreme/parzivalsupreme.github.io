@@ -29,3 +29,11 @@ draft: false
 <br>
 4. Man is incapable of comprehending the absolute; perhaps the universe is just beyond his perception, beyond his dimensions of right and wrong, good and evil.
 <br>
+5. Everything that is of great and marvel 
+<br>
+6. 
+
+
+solve philosophy extension
+
+prolongue confiment hinders elevation of consiosness
