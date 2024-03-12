@@ -1,0 +1,2 @@
+**Moore’s law**, prediction made by American engineer [Gordon Moore](https://www.britannica.com/biography/Gordon-Moore) in 1965 that the number of [transistors](https://www.britannica.com/technology/transistor) per [silicon](https://www.britannica.com/science/silicon) [chip](https://www.britannica.com/technology/integrated-circuit) doubles every year.
+![[Pasted image 20240312104424.png]]
