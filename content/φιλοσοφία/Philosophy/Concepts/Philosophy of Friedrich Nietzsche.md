@@ -1,1 +1,0 @@
-https://en.wikipedia.org/wiki/Philosophy_of_Friedrich_Nietzsche

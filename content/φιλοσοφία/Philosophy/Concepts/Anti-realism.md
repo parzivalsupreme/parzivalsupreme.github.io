@@ -1,1 +1,0 @@
-Anti-realism is ==a philosophical belief that opposes realism==. Realism is the belief that objects continue to exist even when no one is there to see them.

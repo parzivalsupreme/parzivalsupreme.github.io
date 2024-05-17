@@ -1,1 +1,0 @@
-will to power is ==a fundamental drive that underlies all human actions and ambitions==.  It's also a conscious or unconscious desire to exercise authority over others.  Nietzsche believed that the will to power is an instinctual human need to obtain power and control over one's life and environment. He argued that this need was the driving force behind human behavior.
