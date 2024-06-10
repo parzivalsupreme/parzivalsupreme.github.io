@@ -28,12 +28,3 @@ draft: false
 3. Man yearns for absolutes; the human psyche is in dissonance with the relativistic truth—a primordial instinct to structure the world within a framework of fixedness and certainty. So he conceives of empiricism—the mother of sciences, the mother of absolutes.
 <br>
 4. Man is incapable of comprehending the absolute; perhaps the universe is just beyond his perception, beyond his dimensions of right and wrong, good and evil.
-<br>
-5. Everything that is of great and marvel 
-<br>
-6. 
-
-
-solve philosophy extension
-
-prolongue confiment hinders elevation of consiosness
