@@ -7,3 +7,4 @@ IQ was originally computed by taking the ratio of [mental age](https://www.brit
 ![[Pasted image 20240214151515.png]]
 
 ### Ethnic difference in IQ 
+![[Pasted image 20240712182838.png]]
