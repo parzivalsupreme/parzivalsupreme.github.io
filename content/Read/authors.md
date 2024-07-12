@@ -13,3 +13,4 @@
 - Ayn Rand
 - Robert Greene
 - Plato
+- Yukio Mishima

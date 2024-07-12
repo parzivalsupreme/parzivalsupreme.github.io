@@ -1,8 +1,8 @@
 ---
 title: Reading List
 ---
+- [Sun and Stee](https://www.goodreads.com/book/show/62804.Sun_Steel)l | Yukio Mishima
 - [Revolt Against the Modern World](https://www.goodreads.com/en/book/show/179404) | Julius Evola
-- Yukio Mishima
 - [Parzival](https://www.goodreads.com/book/show/560089.Parzival) | Wolfram von Eschenbach
 - [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) | Ray Kurzweil
 - [Critique of Pure Reason](https://www.goodreads.com/book/show/18288.Critique_of_Pure_Reason) | Immanuel Kant
