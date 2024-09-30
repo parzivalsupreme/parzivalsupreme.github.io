@@ -1,0 +1,4 @@
+-Cold war
+-Human incentive
+-Superiority complex
+-
