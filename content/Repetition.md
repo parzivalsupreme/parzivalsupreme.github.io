@@ -1,2 +1,2 @@
 Repetition | Iteration | Perfection
-![[Pasted image 20241014020842.png]]
+![[0a848a5c4bf5be6df901d870e51ca042.jpg]]
